@@ -272,7 +272,7 @@ A collection of Glyph Matrix Toys by the community.
 #### Miscellaneous
 Other interesting projects maintained by the community.
 
-- [Dotify Client by raj.d.patel](https://github.com/PATEL96/dotify-client) - Dot Matrix image generator.
+- [Dotify Client by PATEL96](https://github.com/PATEL96/dotify-client) - Dot Matrix image generator.
 - [Dotmatrixify by szelszabi](https://github.com/szelszabi/dotmatrixify) - Transforms pixelart to dot matrix..
 - [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.
 - [EssentialSpaceWeb by CorruptPriest](https://github.com/CorruptPriest/EssentialSpaceWeb) - A vibecoded, minimalist notespace that captures your thoughts in a distraction-free, Dot Matrix aesthetic, inspired by Nothing OS.
