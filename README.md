@@ -1,21 +1,31 @@
-# Awesome Nothing [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<div align="center"> <img src="assets/logo.png" width="96" alt="Awesome Nothing Logo"> <h1>Awesome Nothing</h1> <p>A curated list of everything related to Nothing & CMF by Nothing ecosystem.</p>
+<br />
 
-<img src="assets/logo.png" width="96" alt="Awesome Nothing Logo">
+  [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fawesome_nothing&label=Hits&icon=github&color=%23b02a37&labelColor=2E2E3F)](https://github.com/spike0en/awesome_nothing) 
-[![Stars](https://img.shields.io/github/stars/spike0en/awesome_nothing?logo=github&color=D4AF37)](https://github.com/spike0en/awesome_nothing/stargazers) 
-[![Forks](https://img.shields.io/github/forks/spike0en/awesome_nothing?logo=github&color=468FAF)](https://github.com/spike0en/awesome_nothing/network/members) 
+  [![Hits](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fspike0en%2Fawesome_nothing&label=Hits&icon=github&color=%23b02a37&labelColor=2E2E3F)](https://github.com/spike0en/awesome_nothing) 
+  [![Stars](https://img.shields.io/github/stars/spike0en/awesome_nothing?logo=github&color=D4AF37)](https://github.com/spike0en/awesome_nothing/stargazers) 
+  [![Forks](https://img.shields.io/github/forks/spike0en/awesome_nothing?logo=github&color=468FAF)](https://github.com/spike0en/awesome_nothing/network/members) 
 
-A curated list of everything related to [Nothing & CMF by Nothing](https://nothing.tech) ecosystem.
-
----
+</div>
+ 
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
 
 ## Co-maintainers
+
+<br>
 
 [![adbo](https://img.shields.io/badge/adbo-9E9D10?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/168006441318350848)
 [![Siemens NX](https://img.shields.io/badge/Siemens%20NX-8E24AA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/150299184426123273)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Socials 
 
@@ -30,12 +40,42 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@NothingTechnology)
 [![TikTok](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@nothing?lang=en)
 
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### Unofficial (Community Maintained)
 
 [![Telegram](https://img.shields.io/badge/-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s/nothing_archive)  [![XDA](https://img.shields.io/badge/-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://xdaforums.com/c/nothing.12583/)  [![r/NothingTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/NothingTech)  [![r/Nothing](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Nothing)  [![r/CMFTech](https://img.shields.io/badge/-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/CMFTech)
 
----
+</div>
+
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+
+## Support the Project
+
+If this index is helpful, please consider [starring ⭐ the repository](https://github.com/spike0en/awesome_nothing/stargazers). It helps with discoverability and encourages maintenance. Thank you!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" width="500" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);" />
+  </picture>
+</div>
+
+</div>
+
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Devices
 
@@ -130,7 +170,11 @@ A curated list of everything related to [Nothing & CMF by Nothing](https://nothi
 
 </details>
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Community Related
 
@@ -142,7 +186,11 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 
 - [Nothing Playground](https://playground.nothing.tech/apps)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 #### Glyph-Powered
 
@@ -160,7 +208,11 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [MorseGlyphs by roxe12345](https://github.com/roxe12345/MorseGlyphs) - A Nothing exclusive app where you type in Morse code and see it in glyph lights.
 - [Simone by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.simone) - The classic memory game recreated with the Glyph interface.
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 #### Notes & Productivity
 
@@ -178,7 +230,11 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [Spend Notes by Coder monk labs](https://play.google.com/store/apps/details?id=com.cmlabs.spendflow.spendflow) - A minimalist app to track your expenses effortlessly.
 - [The Circle by Quiva Connect](https://play.google.com/store/apps/details?id=com.quivaconnect.thecircle) - A community driven language learning app with styling inspired by Nothing OS.
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 #### Utilities & Tools
 
@@ -208,7 +264,11 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [The Everything Key by spandone](https://play.google.com/store/apps/details?id=com.spandone.everythingkey&pli=1) - An app that allows users to remap the essential key found on Nothing Phones.
 - [Voidcaller by VoidwareLabs](https://play.google.com/store/apps/details?id=com.voidware.voidcaller&hl=en_IN) - A sleek, minimalist dialer with a dark monochrome UI, fluid animations, and pill-shaped navigation — perfectly capturing Nothing OS’s clean, futuristic aesthetic.
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 #### Miscellaneous
 
@@ -221,7 +281,11 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [NothingLand by TheGlitchh](https://github.com/TheGlitchh/NothingLand) - An iOS style Dynamic Island for Nothing OS.
 - [Widgets Pro by Preethamkmr3](https://play.google.com/store/apps/details?id=com.tpk.widgetspro) - Additional widgets inspired by Nothing design language.
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### Projects
 
@@ -241,14 +305,21 @@ A collection of Glyph related projects created by the Nothing community.
 - [Haptificator by Fr4nKB](https://github.com/Fr4nKB/Haptificator) - Simple Python script to add haptics to your Phone (1) Glyph composition. 
 - [pyglyph by Snakehater](https://github.com/Snakehater/pyglyph) - A python script for audio visualizing and Nothing Glyph Composer OGG generation.
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ##### Glyph Matrix Toys
 A collection of Glyph Matrix Toys by the community.
 
+> [!NOTE]
+> Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) section for more interesting toys that are not included in the list given below.
+
 - [BetterBattery by pzmuV1517](https://github.com/PzmuV1517/BetterBatery) - An Advanced Glyph Matrix battery visualization.
 - [BetterClock by Snakehater](https://github.com/Snakehater/betterclock) - This toy features a multifunctional display that includes a clock, battery status, charging animation and icon, a DND, and a toggle for the same with a back button.
-- [Counter by Daniel](https://nothing.community/d/36837-introducing-counter-a-glyph-toy) - A simple and intuitive counter ranging from 0 to 9999.  
+- [Counter by Daniel](https://nothing.community/d/36837-introducing-counter-a-glyph-toy) - A simple and intuitive counter ranging from 0 to 9999.
 - [Dot Hub by nostream](https://play.google.com/store/apps/details?id=com.gesekus.dothub) - A multifunctional app featuring a music visualizer, compass, breathing light, coin flip, dice (d3–d9), and counter.  
 - [Glyph Anki by R0uli078](https://github.com/R0uli078/GlyphAnki) - A simple tool to connect Anki with the Glyph Matrix, so you can review your flashcards without looking at your phone screen.
 - [Glyph Beat by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphbeat) - A media visualizer offering a variety of animated Glyph themes.  
@@ -266,10 +337,11 @@ A collection of Glyph Matrix Toys by the community.
 - [GlyphNexus by Experion Labs](https://play.google.com/store/apps/details?id=com.voidtechstudios.smartglyph) - A suite of practical Glyph tools including app notifications, Bluetooth alerts, timers, progress bars, and a music visualizer.  
 - [Timepiece by Arun Khanchandani](https://play.google.com/store/apps/details?id=com.arunk140.timepiece) - Transform your Glyph Matrix into a smart, functional, and stylish information hub with an ultimate Always-On clock utility.
 
-> Note:
-> - Check out [Nothing Playground Glyph Toys](https://playground.nothing.tech/toys) section for more interesting toys that are not included in the list above.
-
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 #### Miscellaneous
 Other interesting projects maintained by the community.
@@ -299,7 +371,11 @@ Other interesting projects maintained by the community.
 - [Spin The Bottle Simulator by MadGlacierRunner](http://dotmatrix-beerbottle.vercel.app/) - A simulation for spin the bottle toy.
 - [Wallpaper Studio Pro by Ifham9](https://wallpaperstudiopro.netlify.app/) - An AI-powered tool that generates minimalist, deep-black wallpapers with an UI tailored for Nothing phones.
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Official OEM Resources
 
@@ -321,14 +397,22 @@ The official suite of apps developed by Nothing Technology Limited.
 
 A mirror of official apps are available at [APKMirror](https://www.apkmirror.com/apk/nothing-technology-limited/)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### Wallpapers
 The walls have been archived for access under respective directories named after the corresponding device codenames.
 
 -  [Download](https://archive.org/download/nothing-archive/spike0en/walls/)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### Fonts
 
@@ -348,7 +432,11 @@ The walls have been archived for access under respective directories named after
 - [NothingFont by xeji01](https://github.com/xeji01/nothingfont) - [nothing.tech](https://nothing.tech) typeface.
 - [Geist Mono](https://fonts.google.com/specimen/Geist+Mono)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### System Sounds
 
@@ -356,7 +444,11 @@ The walls have been archived for access under respective directories named after
 - [Notifications](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/tree/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/vendor/product/media/audio/notifications)
 - [Ringtones](https://dumps.tadiphone.dev/dumps/nothing/metroid/-/tree/qssi_64-user-15-AQ3A.250226.002-2507191646-release-keys/vendor/product/media/audio/ringtones)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### Kernel Sources
 
@@ -369,7 +461,11 @@ The walls have been archived for access under respective directories named after
 - [CMF Phone (2) Pro](https://github.com/NothingOSS/android_kernel_modules_nothing_mt6878/tree/mt6878/Galaga/v)
 - [Phone 3a Lite](https://github.com/NothingOSS/android_kernel_modules_nothing_mt6878/tree/mt6878/Galaxian/v)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### Glyph Developer Kit SDK & API(s)
 Software toolkit for devs to create custom create custom interactive experiences for Glyph LED / Matrix.
@@ -382,7 +478,11 @@ Software toolkit for devs to create custom create custom interactive experiences
 - [Nothing Glyph Interface for Flutter (Unofficial)](https://pub.dev/packages/nothing_glyph_interface)
 - [NothingOS.Unity (Unofficial)](http://github.com/am1goo/NothingOS.Unity) - This SDK provides native APIs for all of the essential Glyph features on Nothing Phone.
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### 3D Models
 The official links to `.glb` files are shared below for respective models.
@@ -401,7 +501,11 @@ The official links to `.glb` files are shared below for respective models.
 - Phone (1) - [Light Green](https://cdn.sanity.io/files/gtd4w1cq/production/cdbaddc958359556191101ba3b049782b0c618ae.glb) | [Orange](https://cdn.sanity.io/files/gtd4w1cq/production/94a4ddd97cac31d7676845ab2942849471e2d1a3.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/de67e4ed8b864d9f05da3a3a01839069cf79ad8b.glb)
 - Phone (2a) Pro - [Light Green](https://cdn.sanity.io/files/gtd4w1cq/production/b54cdec768b611a7af4c166b10e617f8caf11204.glb) | [Orange](https://cdn.sanity.io/files/gtd4w1cq/production/540e40a622cc01c73edddfeb4283cfe1109820b7.glb) | [White](https://cdn.sanity.io/files/gtd4w1cq/production/c7ca3faffb239aac1b1e711086ab43f49f0e3a31.glb) | [Black](https://cdn.sanity.io/files/gtd4w1cq/production/3fe749a61a1c98b3c6473d57e8f3a17d8c1aaba0.glb)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### Support Links
 Official support links related to after-sales, tech support, business and careers.
@@ -417,7 +521,11 @@ Official support links related to after-sales, tech support, business and career
 - [Service Centre](http://nothing.tech/pages/service-center)
 - [Troubleshooting](https://support.nothing.tech/hc/en-us/categories/7455115681041-Troubleshooting)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Drivers & Debugging
 This section provides resources for troubleshooting and development, including essential drivers, platform tools, and corresponding guides.
@@ -444,7 +552,11 @@ These tools are crucial for device debugging and .
   brew install --cask android-platform-tools
   ```
   
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Photography
 
@@ -460,7 +572,11 @@ The config (`xml`) files have been archived for access in their respective direc
 
 - [Download](https://archive.org/download/nothing-archive/spike0en/photography/)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ### Stock Camera Presets
 
@@ -476,13 +592,21 @@ The config (`xml`) files have been archived for access in their respective direc
 
 - [Shot With Nothing by Ali](https://shotwithnothing.crd.co/) - A dedicated space for the nothing community to share their best captures, showcase creativity, and celebrate photography.
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Sound & Audio
 
 - [Stock EQ profiles](https://playground.nothing.tech/eqs) - Community made EQ profiles compatible with Nothing earphones and headphones that support the Advanced Equaliser via [Nothing X](https://play.google.com/store/apps/details?id=com.nothing.smartcenter&hl=en_IN).
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## How-to Guides
 
@@ -504,14 +628,18 @@ Recommended for power users who know what they are doing!
 - [Flashing Stock ROM or Factory Firmware / Soft Unbricking / Downgrading Firmware Version via Fastboot by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#iv-flashing-the-stock-rom-using-fastboot-) 
 - [Relocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#v-relocking-bootloader-)  
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Aftermarket Development
 
 - Stay updated with custom ROM(s), kernel(s), and other aftermarket development projects for your devices.  
 - This section is **community-managed** and **not affiliated with the brand** itself.
 
-> **NOTE**  
+> [!NOTE]
 > - Linking individual ROM releases for every device variant is not feasible, as each update requires reviewing the maintainer’s specific notes and OTA-related details.  
 > - Unlocking the bootloader to flash custom firmware **will void your OEM warranty**. Proceed at your own discretion and ensure you understand the required steps and risks.  
 > - Official Nothing OS OTA (Stable & Beta) release prompts (when available) are be included here for sideloading purposes.  
@@ -521,24 +649,21 @@ is recommended if you want support from developers or maintainers or if you wish
 ### Device Channels
 
 - **Nothing**: [Phone (1)](https://t.me/s/NothingPhone1Updates) | [Phone (2)](https://t.me/s/NothingPhone2updates) | [Phone (2a) Series](https://t.me/s/NothingPhone2aUpdates) | [Phone (3a) Series](https://t.me/s/NothingPhone3aUpdates) | [Phone (3)](https://t.me/s/Phone3Updates)
-- **CMF by Nothing**: [Phone (1)](https://t.me/s/CMFPhone1Updates) | [Phone (2) Pro](https://t.me/s/CMFPhone2GlobalUpdates)
+- **CMF by Nothing**: [Phone (1)](https://t.me/s/CMFPhone1Updates) | [Phone (2) Pro & Nothing Phone (3a) Lite](https://t.me/s/CMFPhone2GlobalUpdates)
 
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
 
 ## Acknowledgements
 
-- A massive shoutout and thank you to all the **creators, project maintainers, contributors, and community members** working behind the scenes on various Nothing-related projects. Your efforts, whether direct or indirect, have helped make this project possible. ❤️
+- [Adbo](https://discord.com/users/168006441318350848) and [Siemens NX](https://discord.com/users/150299184426123273) for their noteworthy contributions to the index and for co-maintaining it.
+- A massive shoutout and thank you to all the **creators, project maintainers, and community members** working behind the scenes on various Nothing-related projects. Your efforts, whether direct or indirect, have helped make this project possible. ❤️
 
----
-
-## Support the Project
-
-If this index has been helpful, please consider **[starring the repository](https://github.com/spike0en/awesome_nothing/stargazers)**. Your support helps keep the project discoverable and active!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=spike0en/awesome_nothing&type=Date" />
-</picture>
-
----
+<div align="center">
+  <br>
+  <span style="font-size: 30px;">••••••••••••••••••••••</span>
+  <br>
+</div>
