@@ -134,14 +134,14 @@ If this index is helpful, please consider [starring ⭐ the repository](https://
 
 | Device Name   | Model       | Pokémon Name | Release Date   |
 |---------------|-------------|--------------|----------------|
-| Buds Pro      | B163        | N/A          | September 2023 |
-| Buds          | B168        | N/A          | March 2024     |
-| Neckband Pro  | B164        | N/A          | March 2024     |
-| Buds Pro 2    | B172 / B187 | N/A          | June 2024      |
-| Buds 2        | B179        | N/A          | April 2025     |
-| Buds 2 Plus   | B184        | N/A          | April 2025     |
-| Buds 2a       | B185        | N/A          | April 2025     |
-| Headphone Pro | B175        | N/A          | September 2025 |
+| Buds Pro      | B168        | Corsola      | September 2023 |
+| Buds          | B232        | Donphan      | March 2024     |
+| Neckband Pro  | B164        | Crobat       | March 2024     |
+| Buds Pro 2    | B172 / B187 | Espeon       | June 2024      |
+| Buds 2        | B179        | Girafarig    | April 2025     |
+| Buds 2 Plus   | B184        | Gligar       | April 2025     |
+| Buds 2a       | B185        | Hoothoot     | April 2025     |
+| Headphone Pro | B205        | Forretress   | September 2025 |
 
 </details>
 
