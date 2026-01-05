@@ -603,12 +603,12 @@ Tips, tricks, and general guides for everyone!
 #### Advanced
 Recommended for power users who know what they are doing!
 
-- [Unlocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#ii-unlocking-bootloader-) 
-- [Backing Up Essential Partitions After Unlocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#iii-backing-up-essential-partitions-after-unlocking-bootloader-)  
-- [Rooting Nothing Phones by spike0en](https://github.com/spike0en/awesome-android-root/blob/main/docs/android-root-guides/how-to-root-nothing-phone.md) 
+- [Unlocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#unlocking-bootloader)
+- [Rooting Nothing Phones by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#rooting)
+- [Backing Up Essential Partitions After Unlocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#backing-up-essential-partitions-after-unlocking-bootloader)  
 - [Fixing Play Integrity & Root Detection by yashaswee-exe](https://github.com/yashaswee-exe/AndroidGuides/wiki/Fix-integrity-and-root-detection)
-- [Flashing Stock ROM or Factory Firmware / Soft Unbricking / Downgrading Firmware Version via Fastboot by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#iv-flashing-the-stock-rom-using-fastboot-) 
-- [Relocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#v-relocking-bootloader-)  
+- [Flashing Stock ROM or Factory Firmware / Soft Unbricking / Downgrading Firmware Version via Fastboot by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#flashing-the-stock-rom-using-fastboot-) 
+- [Relocking Bootloader by spike0en](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#relocking-bootloader) 
 
 <div align="center">
   <br>
