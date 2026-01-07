@@ -340,6 +340,7 @@ Other interesting projects maintained by the community.
 - [Matrices by Uday](https://udaign.github.io/matrices/) - Create images and designs in the style of the Glyph Matrix easily. 
 - [nKWGT by avnishkt2783](https://github.com/avnishkt2783/nKWGT) - Yet another collection of Nothing-style widgets.
 - [Notes by rohankishore](https://github.com/rohankishore/Notes-1) - A NothingOS themed notepad for Windows.
+- [nothing.wiki by adbo](https://www.reddit.com/r/NothingTech/wiki/index) - A source of accurate, up-to-date information on all things Nothing, its devices and its community.
 - [Ntype JP by shibadogcap](https://github.com/Nothing-Japanese-font-project/Ntype-JP/releases) - Ntype Japanese font.
 - [Nothing Archive by spike0en](https://github.com/spike0en/nothing_archive) - Indexes, generates, and preserves official OTA links and unmodified images for Nothing OS devices. Useful for manual updates, restoring stock firmware, or custom development. 
 - [Nothing Bar by bestK1ngArthur](https://github.com/bestK1ngArthur/nothing-bar) - Native macOS menu bar app to control Nothing headphones. 
