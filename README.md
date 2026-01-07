@@ -313,7 +313,9 @@ A collection of Glyph Matrix Toys by the community.
 - [Glyph Museum by pauwma](https://play.google.com/store/apps/details?id=com.pauwma.glyphmuseum) - Explore, design, and showcase creative Glyph art and animations.  
 - [Glyph Toybox by Singularity Design](https://play.google.com/store/apps/details?id=com.singularityux.glyphtoybox) - A collection of interactive Glyph tools like coin flip, ringer mode, and battery flow.  
 - [GlyphCade by bleelblep](https://github.com/bleelblep/GlyphCade/) - An unique arcade experience, where all games are displayed on the Phone (3)'s Glyph Matrix and controlled via its touch screen.
+- [Glypheyes by yuk1-kondo](https://github.com/yuk1-kondo/GlyphToys-Glypheyes) - A playful toy for the Nothing Phone (3)'s Glyph button, with a tilting pupil and expressive eyelids.
 - [Glyphify by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.glyphify) - A gyroscopic ball maze game, a quick dial tool for favorite contacts, and a Tamagotchi inspired companion all built into the Glyph Matrix.
+- [Hamon by yuk1-kondo](https://github.com/yuk1-kondo/GlyphToys-hamon) - A toy that simulates physical wave propagation and represents ripple motion in real time.
 - [HA-Glyph by pzmuv1517](https://github.com/PzmuV1517/HA-glyph) - Toggle any home assistant entity or helper
 - [Leveller by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.matrixleveler) - A straightforward gyroscopic level tool for the Glyph Matrix.  
 - [Magic 8 Ball by Fr4nKB](https://play.google.com/store/apps/details?id=com.frank.magic8ball) - The classic Magic 8 Ball experience brought to life on the Glyph Matrix.  
