@@ -333,7 +333,7 @@ A collection of Glyph Matrix Toys by the community.
 Other interesting projects maintained by the community.
 
 - [Dotify Client by PATEL96](https://github.com/PATEL96/dotify-client) - Dot Matrix image generator.
-- [Dotmatrixify by szelszabi](https://github.com/szelszabi/dotmatrixify) - Transforms pixelart to dot matrix..
+- [Dotmatrixify by szelszabi](https://github.com/szelszabi/dotmatrixify) - Transforms pixelart to dot matrix.
 - [Ear (web) by RapidZapper](https://earweb.bttl.xyz/) - Control your Nothing and CMF earbuds directly from the web.
 - [EssentialSpaceWeb by CorruptPriest](https://github.com/CorruptPriest/EssentialSpaceWeb) - A minimalist notespace that captures your thoughts in a distraction-free, Dot Matrix aesthetic, inspired by Nothing OS.
 - [GlyphMatrixEditor by pauwma](https://github.com/pauwma/GlyphMatrixEditor) - A web-based pixel art editor specifically designed for creating Nothing Phone (3) Glyph Matrix animations.
@@ -456,7 +456,7 @@ The walls have been archived for access under respective directories named after
 </div>
 
 ### Glyph Developer Kit SDK & API(s)
-Software toolkit for devs to create custom create custom interactive experiences for Glyph LED / Matrix.
+Software toolkit for devs to create custom interactive experiences for Glyph LED / Matrix.
 
 - [API Key - Application Form](https://forms.gle/mriKRPdYJtgseCZS6)
 - [Glyph-Developer-Kit (SDK)](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit)
@@ -525,7 +525,7 @@ These drivers are essential for your computer to recognize Nothing devices for U
 - Guide for installing the above drivers: [USB](https://droidwin.com/android-usb-drivers) | [Fastboot](https://droidwin.com/how-to-install-fastboot-drivers-in-windows-11/).
 
 ### Platform Tools (ADB & Fastboot)
-These tools are crucial for device debugging and .
+These tools are crucial for device debugging and development.
 
 - Download Android SDK Platform-Tools: [Windows](https://developer.android.com/studio/releases/platform-tools) | [Linux](https://developer.android.com/studio/releases/platform-tools) | [macOS](https://developer.android.com/studio/releases/platform-tools)
 - Setting up ADB and Fastboot: [Installation and Usage Guide](https://www.xda-developers.com/install-adb-windows-macos-linux/).
@@ -534,7 +534,7 @@ These tools are crucial for device debugging and .
   ```cmd
   winget install --id=Google.PlatformTools  -e
   ```
-- macOS/Linux users can can alternatively install Android SDK Platform-Tools with [Homebrew](https://brew.sh/) by executing the command below:
+- macOS/Linux users can alternatively install Android SDK Platform-Tools with [Homebrew](https://brew.sh/) by executing the command below:
 
   ```cmd
   brew install --cask android-platform-tools
