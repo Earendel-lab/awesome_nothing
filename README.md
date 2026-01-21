@@ -226,6 +226,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 - [CMF Custom Volume Controller by AlirezaFarghadani](https://github.com/alirezafarghadani999/CMF_CustomVolumeControl) - A custom volume controller app for CMF by Nothing Phones.
 - [Elements Widgets by Hearthborn](https://play.google.com/store/apps/details?id=com.hearthborn.studios.elements) - A fresh, minimal and functional widgets experience inspired by Nothing OS for your home screen.
 - [Gamething by Lev Matuzin](https://play.google.com/store/apps/details?id=com.LevMatuzin.Gamething) - A game inspired by Google’s Dino game, thoughtfully redesigned to perfectly complement Nothing phones.
+- [GeoTorch by georgenelson576](https://github.com/georgenelson576/GeoTorch/) - A flashlight app with brightness control and instant access widgets for Nothing phones.
 - [HeyBattery by Candan](https://github.com/ghostyapps/HeyBattery) - A lightweight Android app that tracks your battery usage and charging behavior.
 - [HeyCam by Candan](https://github.com/ghostyapps/HeyCam) - A minimalist camera app delivering unprocessed photos with seamless integration for Nothing Phone (3)'s Glyph Matrix.
 - [MateApp by shahriaravi](https://github.com/shahriaravi/MateApp) - A minimalist, offline finance tracker inspired by the Nothing aesthetic, ensuring your data remains private and under your control.
