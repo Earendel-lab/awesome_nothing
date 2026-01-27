@@ -259,6 +259,7 @@ AI-generated, hyper-personalized mini-applications created through text prompts 
 
 #### Miscellaneous
 
+- [365-Days by dipin-bot](https://github.com/dipin-bot/365-Days) - A minimalist live wallpaper app to countdown the days in a year, inspired by Nothing dot design language.
 - [Dot Battery by RapidZapper](https://play.google.com/store/apps/details?id=com.lisra.dotbattery) - A live battery level wallpaper inspired by Nothing dot design language.
 - [Flow by Earendel-lab](https://github.com/Earendel-lab/Flow) - A minimalist Pomodoro timer [web app](http://flowpo.pages.dev/) designed for deep work and distraction-free productivity.
 - [Lentlay by Omkar Mangalekar](https://lentlay.framer.website/) - An app that lets you add the Nothing inspired lenticular effect to your image.
